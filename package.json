@@ -1,0 +1,22 @@
+{
+  "name": "nutrition-fact-bot",
+  "description": "Find out nutrition facts on your input",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache Version 2.0",
+  "author": "Viber Media S.à r.l",
+  "engines": {
+    "node": ">=5"
+  },
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.13.4",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
