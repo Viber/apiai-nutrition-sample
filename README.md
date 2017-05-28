@@ -36,8 +36,5 @@ See the developer guide at [developers.viber.com](https://developers.viber.com/d
 ## References and how to report bugs
 If you find any issues with this sample, please open a bug [here](../../issues/new) on GitHub.
 
-## License
-See [License](LICENSE.md).
-
 ## Terms
 Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the [Viber API Terms of Service](https://developers.viber.com/docs/general/api-terms-of-service/).
