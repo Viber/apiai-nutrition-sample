@@ -6,10 +6,10 @@ In this example we are building a simple Viber chatbot using [API.AI](https://ap
 
 ### Prerequisites
  1. [API.AI account](https://api.ai)
- 2. [Viber Public Account](https://www.viber.com/en/public-accounts)
+ 2. [Viber bot account](https://developers.viber.com)
  3. [Data.gov API key](https://api.data.gov/signup/)
 
-See the developer guide at [developers.viber.com](https://developers.viber.com/docs/general/getting-started-with-bots/) for more details.
+See the developer guide at [developers.viber.com](https://developers.viber.com/docs/general/get-started/#get-started-with-bots/) for more details.
 
 # Deploy to:
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
